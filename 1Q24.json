@@ -1,0 +1,342 @@
+[
+  {
+    "title": "How did you find out about Deno?",
+    "answersCount": {
+      "Deno blog/social post": 210,
+      "Following Ryan Dahl": 107,
+      "Conference talk": 101,
+      "Friend or coworker": 83,
+      "Hacker News article": 82,
+      "Other": 117
+    }
+  },
+  {
+    "title": "To what extent do you agree with the following statement: \"It was easy for me to learn to use Deno.\"",
+    "answersCount": {
+      "0": 5,
+      "1": 2,
+      "2": 6,
+      "3": 13,
+      "4": 36,
+      "5": 138,
+      "6": 191,
+      "7": 334
+    }
+  },
+  {
+    "title": "How often did you use the Deno runtime in the last two weeks?",
+    "answersCount": {
+      "5 or more times": 328,
+      "1 or less": 218,
+      "2-5 times": 179
+    }
+  },
+  {
+    "title": "How would you feel if you could no longer use Deno?",
+    "answersCount": {
+      "Very Disappointed": 436,
+      "Somewhat Disappointed": 226,
+      "Not Very Disappointed": 63
+    }
+  },
+  {
+    "title": "Please rank thef ollowing features in terms of the main reasons you use Deno",
+    "answersCount": {
+      "Native Typescript support": 2.56,
+      "Use of web standards": 2.97,
+      "Built-in tooling (linter, formatter, test runner, etc)": 3.21,
+      "Security by default": 4.1,
+      "Deno Deploy hosting": 4.83,
+      "Cloud primitives (Deno KV, Queues, Cron)": 4.97,
+      "Fresh framework": 5.35
+    }
+  },
+  {
+    "title": "How important is Deno's backwards compatibility with Node / npm to you?",
+    "answersCount": {
+      "0": 90,
+      "1": 72,
+      "2": 94,
+      "3": 141,
+      "4": 124,
+      "5": 204
+    }
+  },
+  {
+    "title": "Have you tried using an npm module in a Deno project within the last month?",
+    "answersCount": {
+      "Yes": 373,
+      "No": 96
+    }
+  },
+  {
+    "title": "How easy was it to get your intended npm module(s) working?",
+    "answersCount": {
+      "0": 21,
+      "1": 19,
+      "2": 37,
+      "3": 94,
+      "4": 106,
+      "5": 96
+    }
+  },
+  {
+    "title": "Is the current level of npm / node compatibility enough to make Deno your default runtime for all projects?",
+    "answersCount": {
+      "0": 53,
+      "1": 42,
+      "2": 105,
+      "3": 150,
+      "4": 179,
+      "5": 196
+    }
+  },
+  {
+    "title": "Which of the following best describes your use of the Deno runtime?",
+    "answersCount": {
+      "Hacking together a new personal project": 199,
+      "Founder building something new": 137,
+      "Experimenting with something for work": 125,
+      "Dedicated project for work": 112,
+      "Improving on an existing personal project": 85,
+      "Just curious to learn about it": 67
+    }
+  },
+  {
+    "title": "How big is your company?",
+    "answersCount": {
+      "0-50 employees": 278,
+      "100-1000 employees": 37,
+      "1000+ employees": 32,
+      "50-100 employees": 27
+    }
+  },
+  {
+    "title": "Are there any blockers that prevent you from using Deno at your main employer? (select all that apply)",
+    "answersCount": {
+      "My management / team expressed concerns about maturity": 124,
+      "It doesn't support the modules / frameworks I need from Node and npm": 110,
+      "I haven't found a use case for it yet": 69,
+      "I'm happy using Node and don't see a need to switch": 49,
+      "Deno is hard to set up on my preferred cloud": 28,
+      "I've found it to be unstable": 27,
+      "I found it too difficult to learn and adapt for my use case": 17,
+      "Other": 94
+    }
+  },
+  {
+    "title": "Where do you contribute the most on a typical web development project?",
+    "answersCount": {
+      "Even mix of front-end & back-end": 440,
+      "Mainly back-end": 179,
+      "Mainly front-end": 106
+    }
+  },
+  {
+    "title": "What types of projects do you build most often (select all that apply)?",
+    "answersCount": {
+      "REST API Servers": 483,
+      "CLI tools and scripts": 378,
+      "Rich client / single-page applications": 361,
+      "Dashboards and internal tools": 325,
+      "Static sites": 312,
+      "Data-driven CRUD apps": 295,
+      "Server-rendered dynamic web apps": 295,
+      "Microservices": 268,
+      "Workflow automations": 212,
+      "Real-time apps": 207,
+      "E-commerce apps": 126,
+      "CMS apps": 120,
+      "Desktop GUI apps": 110,
+      "GraphQL API Servers": 102,
+      "Native mobile apps": 69,
+      "Games": 68,
+      "IoT apps": 49,
+      "Other": 26
+    }
+  },
+  {
+    "title": "How important is compatibility with third-aprty frameworks for your projects",
+    "answersCount": {
+      "0": 38,
+      "1": 40,
+      "2": 69,
+      "3": 182,
+      "4": 181,
+      "5": 215
+    }
+  },
+  {
+    "title": "What are the most important frameworks for you? (select all that apply)",
+    "answersCount": {
+      "React": 320,
+      "Next.js": 211,
+      "Fresh": 186,
+      "Express.js": 150,
+      "Svelte": 139,
+      "Vue.js": 132,
+      "Astro": 122,
+      "Solid": 74,
+      "Remix": 67,
+      "Nuxt": 58,
+      "Angular": 55,
+      "Qwik": 27,
+      "Gatsby": 8,
+      "Other": 93
+    }
+  },
+  {
+    "title": "To what extent do you agree with the following statement: \"It was easy for me to use my preferred third-party framework with Deno\"",
+    "answersCount": {
+      "0": 34,
+      "1": 22,
+      "2": 45,
+      "3": 88,
+      "4": 134,
+      "5": 139,
+      "6": 65,
+      "7": 51
+    }
+  },
+  {
+    "title": "To what extent do you agree with the following statement: \"It was easy for me to find answers to any coding issues I had while using Deno.\"",
+    "answersCount": {
+      "0": 15,
+      "1": 18,
+      "2": 52,
+      "3": 85,
+      "4": 137,
+      "5": 195,
+      "6": 121,
+      "7": 102
+    }
+  },
+  {
+    "title": "Do your Deno projects use any of the following cloud providers? (select all that apply)",
+    "answersCount": {
+      "Deno Deploy": 366,
+      "None": 206,
+      "Amazon Web Services (AWS)": 140,
+      "Vercel": 88,
+      "Google Cloud Platform (GCP)": 84,
+      "Digital Ocean": 70,
+      "Fly.io": 51,
+      "Netlify": 42,
+      "Microsoft Azure": 38,
+      "Heroku": 21,
+      "Aliyun / Alibaba Cloud": 11,
+      "Other": 83
+    }
+  },
+  {
+    "title": "To what extent do you agree with the following statement: \"It was easy for me to host my Deno project in the cloud.\"",
+    "answersCount": {
+      "0": 7,
+      "1": 5,
+      "2": 12,
+      "3": 22,
+      "4": 41,
+      "5": 81,
+      "6": 111,
+      "7": 240
+    }
+  },
+  {
+    "title": "Which of the following databases / KV stores do you use, or have a strong desire to use, with your Deno projects?(select all that apply)",
+    "answersCount": {
+      "PostgreSQL": 417,
+      "Deno KV": 398,
+      "sqlite": 327,
+      "Redis": 239,
+      "MongoDB": 186,
+      "MySQL": 158,
+      "Firebase": 67,
+      "None": 63,
+      "A solution specific to my cloud provider": 39,
+      "CockroachDB": 27,
+      "Memcached": 27,
+      "Cassandra": 20,
+      "Other": 84
+    }
+  },
+  {
+    "title": "Which of the following systems for observability or metrics do you use, or have a strong desire to use, with your Deno projects? (select all that apply)",
+    "answersCount": {
+      "None": 311,
+      "Grafana": 176,
+      "Sentry": 146,
+      "Prometheus": 136,
+      "Open Telemtry": 126,
+      "Datadog": 91,
+      "A solution specific to my cloud provider": 73,
+      "Logstash": 40,
+      "New Relic": 31,
+      "Splunk": 20,
+      "Zipkin": 10,
+      "Other": 33
+    }
+  },
+  {
+    "title": "Which of the following ORMS do you use, or have a strong desire to use, with your Deno projects? (select all that apply)",
+    "answersCount": {
+      "None": 389,
+      "Prisma": 203,
+      "Mongoose": 99,
+      "Oakdex": 12,
+      "Other": 137
+    }
+  },
+  {
+    "title": "Which Infrastructure as Code (IAC) tools do you use, or have a strong desire to use, with your Deno projects? (select all that apply)",
+    "answersCount": {
+      "None": 448,
+      "Terraform": 182,
+      "AWS Cloud Development Kit (CDK)": 75,
+      "Ansible": 62,
+      "AWS Cloud Formation": 50,
+      "Pulumi": 52,
+      "Puppet": 18,
+      "Chef": 11,
+      "Other": 30
+    }
+  },
+  {
+    "title": "Do your Deno projects use any of the following message brokers? (select all that apply)",
+    "answersCount": {
+      "None": 538,
+      "RabbitMQ": 97,
+      "Kafka": 70,
+      "SQS": 53,
+      "GCP Cloud Tasks": 20,
+      "Other": 37
+    }
+  },
+  {
+    "title": "Do your Deno projects use any of the following systems for authentication or identity management? (select all that apply)",
+    "answersCount": {
+      "JWS": 379,
+      "OAuth2": 288,
+      "None": 191,
+      "Auth0": 103,
+      "Firebase": 75,
+      "A solution specific to my cloud provider": 56,
+      "Okta": 35,
+      "Authy": 13,
+      "Other": 71
+    }
+  },
+  {
+    "title": "Do your Deno projects use any of the following CDN providers? (select all that apply)",
+    "answersCount": {
+      "None": 413,
+      "Cloudflare": 241,
+      "A solution specific to my cloud provider": 71,
+      "Akamai": 23,
+      "Fastly": 23,
+      "BunnyCDN": 17,
+      "CDN77": 6,
+      "Limelight Networks": 3,
+      "Other": 22
+    }
+  }
+]
